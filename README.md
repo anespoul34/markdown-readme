@@ -22,7 +22,7 @@ My favorite quote is:
 > ~ Anonymous
 
 [My Website](https://arthurnespoulous.com)
-![OCtocat](./img/octocat.jpg){width=100px}
+![OCtocat](./img/octocat.jpg)
 
 # This is a H1 heading
 ## This is a H2 heading
